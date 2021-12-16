@@ -1,0 +1,16 @@
+#img {
+	border-radius: 15px !important;
+}
+
+.vertical-center {
+  min-height: 100%;  
+  min-height: 100vh; 
+  display: flex;
+  align-items: center;
+}
+body {
+	background-color:#2a2d38;
+}
+.card {
+	background-colour: black;!important
+}
